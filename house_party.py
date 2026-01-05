@@ -40,7 +40,7 @@ def house_party(guests):
 
     # for name in range(len(list_of_people)):
     for name in list_of_people:
-        # kogato ima range с вех printira indexi a bez range imena
+        # kogato ima range с range printira indexi a bez range imena
         print(name)
     
     
